@@ -1,6 +1,6 @@
 # MyReact
-Bài tập môn React
-I. Lý thuyết 
+# Bài tập môn React
+# Lý thuyết 
 Câu 9: https://codepen.io/votrungcang/pen/bGKZdBm
 Câu 10: https://codepen.io/votrungcang/pen/gOKEpge
 Câu 11: https://codepen.io/votrungcang/pen/zYabGZr
