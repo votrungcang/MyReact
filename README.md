@@ -16,4 +16,4 @@ Câu 20: https://codepen.io/votrungcang/pen/vYrPOXe
 Câu 21: https://codepen.io/votrungcang/pen/ZERPGBz
 
 II. Thực hành 
-
+Bài tập Props và State: https://codepen.io/votrungcang/pen/bGKZdjZ
