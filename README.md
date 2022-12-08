@@ -1,8 +1,8 @@
 # MyReact
 # Bài tập môn React
 # I. Lý thuyết 
-Câu 9: https://codepen.io/votrungcang/pen/bGKZdBm
-Câu 10: https://codepen.io/votrungcang/pen/gOKEpge
+Câu 9. https://codepen.io/votrungcang/pen/bGKZdBm
+Câu 10. https://codepen.io/votrungcang/pen/gOKEpge
 Câu 11: https://codepen.io/votrungcang/pen/zYabGZr
 Câu 12: https://codepen.io/votrungcang/pen/GRGWLzZ
 Câu 13: https://codepen.io/votrungcang/pen/eYKvoYR
@@ -16,4 +16,4 @@ Câu 20: https://codepen.io/votrungcang/pen/vYrPOXe
 Câu 21: https://codepen.io/votrungcang/pen/ZERPGBz
 
 # II. Thực hành 
-# Bài tập Props và State: https://codepen.io/votrungcang/pen/bGKZdjZ
+ Bài tập Props và State: https://codepen.io/votrungcang/pen/bGKZdjZ
